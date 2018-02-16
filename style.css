@@ -1,0 +1,22 @@
+.content{
+    width:80%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20%;
+}
+.inner-content{
+    width:80%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+h2{
+    text-align:center;
+    font-family: 'Indie Flower', cursive;
+}
+form{
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+}
